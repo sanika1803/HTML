@@ -1,0 +1,55 @@
+style
+
+            #space{
+                text-indent: 10px;
+            }
+            #header{
+                text-align: center;
+                background-color: orange;
+                margin-left: auto;
+                margin-right: auto;
+                height: 80px;
+                width: 700;
+                border: 1px solid black;
+            }
+            #menu{
+                margin-left: auto;
+                margin-right: auto;
+                border: 1px solid black;
+                width: 700;
+                text-align: center;
+                background-color: orange;
+        
+            }
+            #imagebanner{
+                text-align: center;
+                margin-left: auto;
+                margin-right: auto;
+                width: 700;
+                background-color: orange;
+                border: 1px solid black;
+            }
+
+            .body{
+                margin-left: auto;
+                margin-right: auto;
+                border: 1px solid black;
+                width: 700;    
+                padding: 20;
+                
+            }
+            #block{
+                
+                height: 100px;
+                text-align: center;
+                background-color:rgb(11, 198, 255);
+            }
+
+            #footer{
+                text-align: center;
+                background-color: orange;
+                margin-left: auto;
+                margin-right: auto;
+                width: 700;
+                border: 1px solid black;
+            }
